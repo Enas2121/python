@@ -1,2 +1,6 @@
-age = input("how old are you")
-print("you are",age,"years old!")
+i = 5
+while i <= 5:
+    print(i)
+   
+  
+
